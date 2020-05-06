@@ -2,7 +2,7 @@
 
 视觉吧导航网发布页-有你喜欢的。
 
-!(https://ae01.alicdn.com/kf/U84071e69b9f64d3493bea7b8579c6cf4D.png)
+![logo](https://ae01.alicdn.com/kf/U84071e69b9f64d3493bea7b8579c6cf4D.png)
 ### 视觉发布页
 
 
