@@ -7,7 +7,7 @@
 
 
 
-- [x] 最新导航：www.saozd.com
+- [x] 最新导航：www.shijuek.com
 - [x] 视觉知识博客：www.shijueb.com
 - [x] 请大家 Ctrl+D 收藏本页
 - [x] 多次更换域名给老朋友回家的路
