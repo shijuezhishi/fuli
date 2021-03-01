@@ -7,8 +7,9 @@
 
 
 
-- [x] 最新导航：https://fulidz.com
+- [x] 最新导航：https://www.zhain.me
 - [x] 视觉知识博客：https://www.saozn.com
+- [x] 方便记申请了中文域名：视觉吧.ml 浏览器输入即可
 - [x] 方便记申请了中文域名：视觉福利.com 浏览器输入即可
 - [x] 请大家 Ctrl+D 收藏本页
 - [x] 多次更换域名给老朋友回家的路
