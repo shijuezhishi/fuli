@@ -12,7 +12,8 @@
 - [x] 麻豆视频：https://www.saozm.com
 - [x] 福利学院资源网：https://www.lklk.net
 - [x] 方便记申请了中文域名：视觉吧.ml 浏览器输入即可
-- [x] 方便记申请了中文域名：视觉福利.com 浏览器输入即可
+- [x] 永久地址1：https://zsba.me
+- [x] 永久地址2：https://shijueba.net
 - [x] 请大家 Ctrl+D 收藏本页
 - [x] 多次更换域名给老朋友回家的路
 - [x] 获取最新地址请发邮件到fulizhishi@qq.com
