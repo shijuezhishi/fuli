@@ -9,7 +9,7 @@
 
 - [x] 最新导航：https://www.zhain.me
 - [x] 视觉吧：https://www.saozn.com
-- [x] 麻豆视频：https://www.saozn.com
+- [x] 麻豆视频：https://www.saozm.com
 - [x] 福利学院资源网：https://www.lklk.net
 - [x] 方便记申请了中文域名：视觉吧.ml 浏览器输入即可
 - [x] 方便记申请了中文域名：视觉福利.com 浏览器输入即可
