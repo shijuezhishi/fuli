@@ -8,7 +8,7 @@
 
 
 - [x] 最新导航：https://www.zhain.me
-- [x] 视觉吧：https://www.saozn.com
+- [x] 视觉吧：https://shijueba.me
 - [x] 麻豆视频：https://www.saozm.com
 - [x] 福利学院资源网：https://www.lklk.net
 - [x] 方便记申请了中文域名：http://视觉吧.ml 浏览器输入即可
