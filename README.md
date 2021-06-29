@@ -9,14 +9,13 @@
 
 - [x] 最新导航：https://www.zhain.me
 - [x] 视觉吧：https://shijueba.me
-- [x] 麻豆视频：https://saozm.com
-- [x] 福利学院资源网：https://www.lklk.net
+- [x] 麻豆视频：https://madou.men
+- [x] 福利学院资源网：https:/fulibo.net
 - [x] 方便记申请了中文域名：http://视觉吧.ml 浏览器输入即可
 - [x] 永久地址1：https://zsba.me
 - [x] 永久地址2：https://shijueba.net
 - [x] 请大家 Ctrl+D 收藏本页
 - [x] 多次更换域名给老朋友回家的路
-- [x] 获取最新地址请发邮件到fulizhishi@qq.com
 - [x] 备用：请发邮件到shijuezhishi@gmail.com
 
 ### 注意事项
