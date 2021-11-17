@@ -7,10 +7,9 @@
 
 
 
-- [x] 麻豆视频：https://madou.win
+- [x] 麻豆视频：https://madou.vin
 - [x] 最新导航：https://91zpc.com
 - [x] 视觉吧：https://shijueba.me
-- [x] 方便记申请了中文域名：http://视觉吧.ml 浏览器输入即可
 - [x] 永久地址1：http://zsba.cc
 - [x] 永久地址2：http://zsba.vip
 - [x] 请大家 Ctrl+D 收藏本页
