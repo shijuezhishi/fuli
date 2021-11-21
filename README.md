@@ -2,7 +2,7 @@
 
 全网最新最全第一时间更新国产传媒合集。
 
-![logo](https://p6-tt.byteimg.com/origin/pgc-image/e1a38a0c27214c95a0ab24f6cccc3385.png)
+![logo](https://cdn.jsdelivr.net/gh/aiwutu/aiwu04@301d7d05953a3d21731d8259d81f42d0357bfc44/2021/11/21/ae332d47932f44d6bd550287afb8a103.png)
 ### 请保存永久地址
 
 
