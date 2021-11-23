@@ -7,7 +7,7 @@
 
 
 
-- [x] 麻豆视频：https://madou.vin
+- [x] 麻豆视频：https://madou.uno
 - [x] 最新导航：https://91zpc.com
 - [x] 永久地址1：http://zsba.cc
 - [x] 永久地址2：http://zsba.vip
