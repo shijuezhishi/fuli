@@ -7,8 +7,8 @@
 
 
 
-- [x] 麻豆视频：https://madou.llc
-- [x] 永久地址1：http://madou.lol
+- [x] 麻豆视频：https://madou.loan
+- [x] 永久地址1：http://madou.lat
 - [x] 请大家 Ctrl+D 收藏本页
 - [x] 多次更换域名给老朋友回家的路
 - [x] 备用：请发邮件到shijuezhishi@gmail.com
